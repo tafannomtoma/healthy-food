@@ -91,7 +91,7 @@ hr{
   
 .three-width{
   width: 26.66%;
-  margin: 5% auto;
+  margin:  5% auto;
   text-align: center;
   content: none;
 }
@@ -101,22 +101,23 @@ hr{
   margin-top: 27px;
   border-radius: 20px;
 }
+
 .box-shadow{
   width: 26.66%;
   height: 500px;
   border-radius: 20px;
-  box-shadow: 10px 10px 40px pink;
+  box-shadow: 10px 10px 40px #FFEFD5;
 }
  
 .box-shadow:hover{
   opacity: 0.8;
   color: purple;
-  background-color: pink;
+  background-color: #FFEFD5;
 }
 
 footer{
   text-align: center;
-  padding: 5px;
+  padding: 5px; 
   color: white;
   background-color: black;
 }
